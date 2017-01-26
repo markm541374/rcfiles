@@ -9,4 +9,4 @@ set foldmethod=indent
 let mapleader='\'
 set foldlevel=99
 nnoremap <space> za
-nnoremap <leader>r :!python %<CR>
+nnoremap <leader>p :w !clear;python %<CR>
