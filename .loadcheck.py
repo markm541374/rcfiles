@@ -3,7 +3,7 @@
 #checks the 5min av load on hostnames then displays them sorted and normalized
 #This is run by .bashrc entry:
 # if [[ $- =~ "i" ]]; then
-#      ~/.loadcheck.py
+#      python ~/.loadcheck.py
 # fi
 #
 #
